@@ -1,21 +1,4 @@
 {
-  "users": [
-    {
-      "id": "1",
-      "usuario": "wrodas",
-      "email": "wrodas@gmail.com"
-    },
-    {
-      "id": "2",
-      "usuario": "snavas",
-      "email": "snavas@gmail.com"
-    },
-    {
-      "id": "3",
-      "usuario": "lalonzo",
-      "email": "lalonzo@gmail.com"
-    }
-  ],
   "productos": [
     {
       "id": "123",
