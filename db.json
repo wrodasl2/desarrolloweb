@@ -1,5 +1,4 @@
-{
-  "productos": [
+[
     {
       "id": "123",
       "nombre": "Lansoprazol",
@@ -40,5 +39,4 @@
       "Contenido": "100 MG",
       "Precio": "Q.186.78"
     }
-  ]
-}
+]
