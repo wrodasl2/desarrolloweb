@@ -1,5 +1,4 @@
-{
-  "users": [
+[
     {
       "id": "1",
       "usuario": "wrodas",
@@ -9,53 +8,5 @@
       "id": "2",
       "usuario": "snavas",
       "email": "snavas@gmail.com"
-    },
-{
-      "id": "3",
-      "usuario": "lalonzo",
-      "email": "lalonzo@gmail.com"
-    }
-  ],
-  "productos": [
-    {
-      "id": "123",
-      "nombre": "Lansoprazol",
-      "publisher": "Bayer",
-      "cantidad": "14 capsulas",
-      "Contenido": "30 MG",
-      "Precio": "Q.106.00"
-    },
-    {
-      "id": "1234",
-      "nombre": "Panadol Ultra",
-      "publisher": "Bayer",
-      "cantidad": "104 capsulas",
-      "Contenido": "80 MG",
-      "Precio": "Q.118.00"
-    },
-    {
-      "id": "1235",
-      "nombre": "Amoxicilina",
-      "publisher": "Bayer",
-      "cantidad": "48 capsulas",
-      "Contenido": "500 MG",
-      "Precio": "Q.196.00"
-    },
-    {
-      "id": "1236",
-      "nombre": "Ibuprofeno",
-      "publisher": "Bayer",
-      "cantidad": "50 capsulas",
-      "Contenido": "600 MG",
-      "Precio": "Q.165.01"
-    },
-    {
-      "id": "1237",
-      "nombre": "Tinidazol",
-      "publisher": "Bayer",
-      "cantidad": "24 capsulas",
-      "Contenido": "100 MG",
-      "Precio": "Q.186.78"
     }
   ]
-}
