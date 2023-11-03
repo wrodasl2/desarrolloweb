@@ -38,5 +38,13 @@
       "cantidad": "24 capsulas",
       "Contenido": "100 MG",
       "Precio": "Q.186.78"
+    },
+    {
+      "id": "1238",
+      "nombre": "Cardio Aspirina",
+      "publisher": "Bayer",
+      "cantidad": "48 capsulas",
+      "Contenido": "100 MG",
+      "Precio": "Q.300.78"
     }
 ]
