@@ -5,7 +5,8 @@
       "publisher": "Bayer",
       "cantidad": "14 capsulas",
       "Contenido": "30 MG",
-      "Precio": "Q.106.00"
+      "Precio": "Q.106.00",
+      "Imagen": "https://selectpharma.com.gt/sites/default/files/producto/Lansoprazol-Caja-30-Capsulas-30-mg.jpg"
     },
     {
       "id": "1234",
@@ -13,7 +14,8 @@
       "publisher": "Bayer",
       "cantidad": "104 capsulas",
       "Contenido": "80 MG",
-      "Precio": "Q.118.00"
+      "Precio": "Q.118.00",
+      "Imagen": "https://i0.wp.com/elgranahorro.com.gt/wp-content/uploads/2022/04/901645-PANADOL-ULTRA-16-TABS.jpg?fit=1040%2C1040&ssl=1"
     },
     {
       "id": "1235",
@@ -21,7 +23,8 @@
       "publisher": "Bayer",
       "cantidad": "48 capsulas",
       "Contenido": "500 MG",
-      "Precio": "Q.196.00"
+      "Precio": "Q.196.00",
+      "Imagen": "https://walmartgt.vtexassets.com/arquivos/ids/309378/S-Amoxicilina-Fdina-500Mg-50-Caps-Und-1-50241.jpg?v=638011967968130000"
     },
     {
       "id": "1236",
@@ -29,7 +32,8 @@
       "publisher": "Bayer",
       "cantidad": "50 capsulas",
       "Contenido": "600 MG",
-      "Precio": "Q.165.01"
+      "Precio": "Q.165.01",
+      "Imagen": "https://selectpharma.com.gt/sites/default/files/producto/ibuprofeno-3-caja-50-tabletas-recubiertas-400-mg_0.jpg"
     },
     {
       "id": "1237",
@@ -37,7 +41,8 @@
       "publisher": "Bayer",
       "cantidad": "24 capsulas",
       "Contenido": "100 MG",
-      "Precio": "Q.186.78"
+      "Precio": "Q.186.78",
+      "Imagen": "https://selectpharma.com.gt/sites/default/files/producto/tinidazol.png"
     },
     {
       "id": "1238",
@@ -45,6 +50,7 @@
       "publisher": "Bayer",
       "cantidad": "48 capsulas",
       "Contenido": "100 MG",
-      "Precio": "Q.300.78"
+      "Precio": "Q.300.78",
+      "Imagen": "https://www.conosur.bayer.com/sites/conosur_bayer_com/files/inline-images/Packing-Cardioaspirina_pack.png"
     }
 ]
